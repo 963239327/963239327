@@ -12,8 +12,8 @@
 
 | Project | Install / Repo | What It Solves |
 | :--- | :--- | :--- |
-| 🛡️ **PasteShield** | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=craftleaf-studio.pasteshield-ai-secret-sanitizer) · [GitHub](https://github.com/963239327/pasteshield-secret-sanitizer) · [Web Sandbox](https://963239327.github.io/craftleaf-studio/extensions/pasteshield/) | `<1ms` zero-dependency reversible secret vault (`Cmd+Alt+C` maps API keys/JWTs/DB URIs to `<DB_URI_1>`, `Cmd+Alt+R` restores real credentials after ChatGPT/Claude replies). |
-| 🖨️ **CleanPrint** | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cleanprint-ai-chat-to-pdf/) · [GitHub](https://github.com/963239327/cleanprint-ai-chat-to-pdf) · [Web Preview](https://963239327.github.io/craftleaf-studio/extensions/cleanprint/) | Least-privilege (`activeTab` only) MV3 extension that purifies multi-page ChatGPT, Claude & dark-mode engineering threads into uncut, ink-saving vector PDFs. |
+| 🛡️ **PasteShield** | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=craftleaf-studio.pasteshield-ai-secret-sanitizer) · [Open VSX (Cursor)](https://open-vsx.org/extension/craftleaf-studio/pasteshield-ai-secret-sanitizer) · [GitHub](https://github.com/963239327/pasteshield-secret-sanitizer) · [Web Sandbox](https://963239327.github.io/craftleaf-studio/extensions/pasteshield/) | `<1ms` zero-dependency reversible secret vault (`Cmd+Alt+C` maps API keys/JWTs/DB URIs to `<DB_URI_1>`, `Cmd+Alt+R` restores real credentials after ChatGPT/Claude replies). |
+| 🖨️ **CleanPrint** | [Firefox & Chromium v1.1.0 Release](https://github.com/963239327/cleanprint-ai-chat-to-pdf/releases/latest) · [GitHub](https://github.com/963239327/cleanprint-ai-chat-to-pdf) · [Web Preview](https://963239327.github.io/craftleaf-studio/extensions/cleanprint/) | Least-privilege (`activeTab` only) MV3 extension that purifies multi-page ChatGPT, Claude & dark-mode engineering threads into uncut, ink-saving vector PDFs. |
 
 ---
 
@@ -33,4 +33,4 @@
 - 🏥 [美国看病英文分诊症状卡生成器 (Nurse Triage Card)](https://963239327.github.io/craftleaf-studio/tools/us-life/doctor-symptom-card/)
 - 📈 [美国零信用首卡账单日 `<9%` FICO 提分模拟器](https://963239327.github.io/craftleaf-studio/tools/us-life/credit-score-simulator/)
 - 🧮 [2026 北美黑五折上折 × 返利网 × 信用卡四层叠加计算器](https://963239327.github.io/craftleaf-studio/tools/us-life/black-friday-calculator/)
-- 🎁 [北美新移民首年生活通关 7 合 1 可打印大礼包 (100 Pages PDF)](https://stardustdemo.gumroad.com/l/us-newcomer-first-year-7in1-bundle)
+- 🧭 [北美新移民首年生活双语避坑指南库 (55+ 篇免费实操攻略)](https://963239327.github.io/craftleaf-studio/cn-guides/)
