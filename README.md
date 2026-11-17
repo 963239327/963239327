@@ -4,7 +4,8 @@
 
 🌐 **Live Tool Portal (Zero Sign-up, Zero Cloud Upload):** [**963239327.github.io**](https://963239327.github.io/craftleaf-studio/)  
 🛍️ **Digital Storefront & Lifetime Passes:** [**stardustdemo.gumroad.com**](https://stardustdemo.gumroad.com)  
-🎲 **Playable Tabletop Showcase:** [**stardustdemo.itch.io**](https://stardustdemo.itch.io)
+🎲 **Playable Tabletop Showcase:** [**stardustdemo.itch.io**](https://stardustdemo.itch.io)  
+⚡ **爱发电官方主页 (Afdian · 微信/支付宝):** [**ifdian.net/a/craftleaf**](https://ifdian.net/a/craftleaf)
 
 ---
 
